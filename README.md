@@ -4,7 +4,7 @@
 
 A forensic investigation console for industrial time-series data. Detects anomalies across correlated signals using three parallel statistical methods, reconstructs the causal chain using Granger causality and lag analysis, and generates a structured incident report in plain English — all running locally on Apple Silicon.
 
-![Console Preview](assets/preview.png)
+![Console Preview](assets/anomaly-archaeology-engine.png)
 
 ## What makes this different
 
